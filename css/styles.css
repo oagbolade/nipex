@@ -1,0 +1,100 @@
+.al-login-logo{
+	max-width: 176px;
+	height: auto;
+}
+
+.al-login{
+	background: url('../images/home-bg.jpg');
+	background-size: cover;
+}
+
+.al-home-form{
+	color:#f0f0f0;
+	background-color:rgba(22, 160, 133, 0.8);
+	padding: 10px 15px;
+}
+
+.al-home-form a{
+	color:#f0f0f0;
+}
+
+.al-home-password-modal{
+	background-color:rgb(22, 160, 133);
+	color:#f0f0f0;
+}
+
+.al-home-password-modal .close{
+	color:#fff;
+	text-shadow: none;
+}
+
+.al-emphasis{
+	font-style:italic;
+	color: rgba(231,76,60,0.88);
+}
+
+.al_logo_img{
+	width: 50px;
+	height: auto;
+}
+
+.al_panel_toolbox>li{
+	float:right;
+}
+
+.al_font_emphases{
+	color:#d02e2c;
+}
+
+.al_app_image{
+	width:60px;
+	height:60px;
+}
+
+.al_profile_img{
+	max-with:70%;
+	width: 60px;
+	height: 60px;
+}
+
+#course .al_total{
+	background-color: #5bd0dE;
+	color:#fff;
+	font-weight: bold;
+	font-size: large;
+}
+
+#course input::after{
+	content: '-';
+}
+
+.al_course_name{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+.al_warning{
+	background-color:#F2C9C8 !important;
+}
+
+.al_completion_status{
+	display:inline-block;
+	padding: 5px;
+	color:#fff;
+	background-color: #D9534F;
+	border-radius: 5px;
+}
+
+.al_reviewer{
+	font-size: 11px;
+}
+
+.al_reviewer span{
+	display: block;
+	margin-bottom: 2px;
+	line-height: 12px;
+}
+
+.al_reviewer span.al_last_reviewer{
+	margin-bottom: 5px;
+}

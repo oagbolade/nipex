@@ -1,0 +1,19 @@
+.noPrint{
+	display: none;
+}
+
+.printCenter{
+	text-align: center;
+}
+
+.print-center{
+	text-align: center;
+}
+
+.print-right{
+	text-align: right;
+}
+
+.col-md-4-print{
+	width: 28%;
+}

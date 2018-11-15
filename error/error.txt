@@ -1,0 +1,9 @@
+CSRF suspected in  C:\wamp64\www\nim-mpe\processor-login.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Sunday July 8th, 2018 - 3:38pm
+CSRF suspected in  C:\wamp64\www\nim-mpe\processor-login.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Wednesday July 11th, 2018 - 5:23am
+Array ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Monday July 16th, 2018 - 6:49pm
+CSRF suspected in  C:\wamp64\www\nim-mpe\academic\processor.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Monday July 16th, 2018 - 6:52pm
+CSRF suspected in  C:\wamp64\www\nim-mpe\academic\processor-delete.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Monday July 16th, 2018 - 10:18pm
+CSRF suspected in  C:\wamp64\www\nim-mpe\employment\processor-delete.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Tuesday July 17th, 2018 - 5:28am
+CSRF suspected in  C:\wamp64\www\nim-mpe\submission\processor.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Wednesday July 18th, 2018 - 1:57am
+CSRF suspected in  C:\wamp64\www\nim-mpe\member-photocard\processor.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Monday July 23rd, 2018 - 3:59pm
+CSRF suspected in  C:\wamp64\www\nim-mpe\member-photocard\processor.php ::1 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36 Monday July 23rd, 2018 - 4:18pm
